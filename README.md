@@ -49,12 +49,10 @@ python src/main.py
 ### Language
 
 The app supports **English** and **Finnish** — switch from the settings menu at startup.  
-Sovellus tukee **englantia** ja **suomea** — vaihda kieltä asetusvalikosta käynnistyksessä.
 
 ### Themes 
 
 Choose between **Dark** (default) and **Light** themes in the settings.  
-Valitse **tumma** (oletus) tai **vaalea** teema asetuksista.
 
 ---
 
@@ -72,14 +70,12 @@ Valitse **tumma** (oletus) tai **vaalea** teema asetuksista.
 
 - HEIC support requires `pillow-heif`: `pip install pillow-heif`
 - Video/audio conversion uses the `ffmpeg` CLI
-- HEIC-tuki vaatii `pillow-heif`-paketin
-- Video/äänimuunnos käyttää `ffmpeg`-komentorivityökalua
 
 ---
 
 ## License 
 
-See the [LICENSE](__LICENSE__) file.
+See the MIT [LICENSE](__LICENSE__) file.
 
 ---
 
